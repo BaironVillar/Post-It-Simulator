@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Reenie Beanie';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #666;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 {
+  font-weight: bold;
+}
